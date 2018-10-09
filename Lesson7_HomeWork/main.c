@@ -264,6 +264,7 @@ void Menu()
 	printf("MENU\n");
 	printf("1-ReadGraf from file\n");
 	printf("2-The function of traversing the graph in width.\n");
+	printf("2-The function of traversing the graph in width.\n");
 	printf("0-Exit\n");
 	puts("==========================");
 	printf("Insert number solution of tasks Lesson 7:");
